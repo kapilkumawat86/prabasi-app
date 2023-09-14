@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/prabasi-app/static/css/main.cfed35ea.css",
-    "main.js": "/prabasi-app/static/js/main.46c73e28.js",
-    "static/js/787.6c78fa66.chunk.js": "/prabasi-app/static/js/787.6c78fa66.chunk.js",
+    "main.css": "/prabasi-app/static/css/main.ea2ad399.css",
+    "main.js": "/prabasi-app/static/js/main.0a57d93e.js",
+    "static/js/27.1ce9b534.chunk.js": "/prabasi-app/static/js/27.1ce9b534.chunk.js",
     "service-worker.js": "/prabasi-app/service-worker.js",
-    "index.html": "/prabasi-app/index.html",
-    "main.cfed35ea.css.map": "/prabasi-app/static/css/main.cfed35ea.css.map",
-    "main.46c73e28.js.map": "/prabasi-app/static/js/main.46c73e28.js.map",
-    "787.6c78fa66.chunk.js.map": "/prabasi-app/static/js/787.6c78fa66.chunk.js.map"
+    "index.html": "/prabasi-app/index.html"
   },
   "entrypoints": [
-    "static/css/main.cfed35ea.css",
-    "static/js/main.46c73e28.js"
+    "static/css/main.ea2ad399.css",
+    "static/js/main.0a57d93e.js"
   ]
 }
