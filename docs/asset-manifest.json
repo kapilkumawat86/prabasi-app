@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/prabasi-app/static/css/main.ea2ad399.css",
-    "main.js": "/prabasi-app/static/js/main.0a57d93e.js",
+    "main.js": "/prabasi-app/static/js/main.3b769308.js",
     "static/js/27.1ce9b534.chunk.js": "/prabasi-app/static/js/27.1ce9b534.chunk.js",
     "service-worker.js": "/prabasi-app/service-worker.js",
     "index.html": "/prabasi-app/index.html"
   },
   "entrypoints": [
     "static/css/main.ea2ad399.css",
-    "static/js/main.0a57d93e.js"
+    "static/js/main.3b769308.js"
   ]
 }
